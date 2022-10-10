@@ -7,5 +7,6 @@
 - Har lagt til github Actions maven 
 - https://github.com/haakonhp/Oblig2/new/master?filename=.github%2Fworkflows%2Fmaven.yml&workflow_template=maven)
 - oppdatert maven_test.yml til å ha JDK 18
+- la til igjen distribution da jeg feilaktig fjernet dette i forrige commit
 
 https://github.com/haakonhp/Oblig2
